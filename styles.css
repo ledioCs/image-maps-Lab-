@@ -1,0 +1,36 @@
+body {
+    background-color: darkgray;
+    
+    
+}
+
+div {
+    height: 700px;
+    width: 750px;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    
+}
+
+img {
+    display: flex;
+    margin: auto;
+    padding-top: -10px;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+}
+
+h1 {
+    margin: 5px 0   -20px;
+    padding: none;
+    display: flex;
+    justify-content: center;
+    border: 1px solid whitesmoke;
+    border-radius: 25px;
+    width: auto;
+    background-color: aliceblue;
+}
